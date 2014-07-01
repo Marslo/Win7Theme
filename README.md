@@ -8,4 +8,5 @@ Add "marslo1.theme" to %LOCALAPPDATA%\Microsoft\Windows\Themes
 </code></pre>
 
 ### Screenshot
-![My_desktop](https://github.com/Marslo/Win7Theme/blob/master/Screenshot/win7.png?raw=true)
+![My_desktop](https://github.com/Marslo/Win7Theme/blob/master/Screenshots/win7.png?raw=true)
+![Marslo3.theme.png](https://github.com/Marslo/Win7Theme/blob/master/Screenshots/Marslo3.theme.png?raw=true)
