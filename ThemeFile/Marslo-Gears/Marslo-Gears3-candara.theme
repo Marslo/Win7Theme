@@ -2,7 +2,7 @@
 ; Copyright © Microsoft Corp.
 
 [Theme]
-DisplayName=Marslo-Gears3
+DisplayName=Marslo-Gears3-candara
 
 ; Computer - SHIDI_SERVER
 [CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
@@ -48,6 +48,36 @@ Pattern=
 
 [Control Panel\Colors]
 Background=0 0 0
+Scrollbar=200 200 200
+ActiveTitle=153 180 209
+InactiveTitle=191 205 219
+Menu=240 240 240
+Window=255 255 255
+WindowFrame=100 100 100
+MenuText=0 0 0
+WindowText=0 0 0
+TitleText=0 0 0
+ActiveBorder=180 180 180
+InactiveBorder=244 247 252
+AppWorkspace=171 171 171
+Hilight=51 153 255
+HilightText=255 255 255
+ButtonFace=240 240 240
+ButtonShadow=160 160 160
+GrayText=109 109 109
+ButtonText=0 0 0
+InactiveTitleText=67 78 84
+ButtonHilight=255 255 255
+ButtonDkShadow=105 105 105
+ButtonLight=227 227 227
+InfoText=0 0 0
+InfoWindow=255 255 225
+ButtonAlternateFace=0 0 0
+HotTrackingColor=0 102 204
+GradientActiveTitle=185 209 234
+GradientInactiveTitle=215 228 242
+MenuHilight=51 153 255
+MenuBar=240 240 240
 
 [VisualStyles]
 Path=%SystemRoot%\resources\themes\Aero\Aero.msstyles
@@ -126,3 +156,7 @@ DefaultValue=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\Gears 3\window
 
 
 
+[Metrics]
+NonclientMetrics=88 1 0 0 1 0 0 0 17 0 0 0 17 0 0 0 18 0 0 0 18 0 0 0 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 16 0 0 0 16 0 0 0 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 18 0 0 0 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0 
+LangID=1033
+IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 244 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 0 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
