@@ -35,8 +35,8 @@ SizeNWSE=
 SizeWE=
 UpArrow=
 Wait=
-DefaultValue=Marslo
-Crosshair=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\black-lounge\Precision Select.cur
+DefaultValue=
+Crosshair=
 IBeam=
 Link=
 
@@ -143,6 +143,42 @@ DefaultValue=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\Marslo-Sound\r
 [AppEvents\Schemes\Apps\.Default\PrintComplete]
 DefaultValue=%USERPROFILE%\AppData\Local\Microsoft\Windows\Themes\Marslo-Sound\ryse_ammo_pillum_stash.wav
 [Metrics]
-NonclientMetrics=88 1 0 0 1 0 0 0 17 0 0 0 17 0 0 0 18 0 0 0 18 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0 17 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 18 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0             
+NonclientMetrics=88 1 0 0 1 0 0 0 17 0 0 0 17 0 0 0 18 0 0 0 18 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0 17 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 18 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 0 0               
 LangID=1033
-IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0             
+IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 243 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 67 97 110 100 97 114 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0               
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_appinvite]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_busy]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_callended]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_connecting]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_dialtone]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_fastbusy]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_fsringing]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_howler]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_iminvite]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_muting]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_newim]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_onhold]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_presence]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_redirect]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_ringback]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_ringing]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_secondcall]
+DefaultValue=
+[AppEvents\Schemes\Apps\Communicator\COMMUNICATOR_untag]
+DefaultValue=
